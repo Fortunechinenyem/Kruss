@@ -315,7 +315,10 @@ header {
     text-align: center;
     color: var(--clr-dark);
 }
-
+/* About */
+.story {
+    text-align: center;
+}
 /* DashBoard */
 
 .dashheader {
