@@ -303,7 +303,14 @@ header {
 .card-body {
     background: var(--clr-light);
 }
+.card-body1 {
+background: var(--clr-dark);
+}
+.ebook1 {
+background: var(--clr-dark);
+color: var(--clr-accent);
 
+}
 .card-bodydash {
     background: var(--clr-dark);
 }
