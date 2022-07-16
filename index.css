@@ -144,6 +144,7 @@ header {
 
 .logo {
     max-width: 100px;
+    background-color: var(--clr-light);
 }
 
 .nav {
