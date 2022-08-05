@@ -13,8 +13,8 @@
     --fw-reg: 400;
     --fw-bold: 700;
 
-    --clr-light: rgb(9, 224, 248);
-    --clr-dark: #09090a;
+    --clr-light: rgb(111, 201, 211);
+    --clr-dark: #14121c;
     --clr-accent: #b5bf25;
 
     --fs-h1: 3rem;
@@ -347,7 +347,7 @@ color: var(--clr-accent);
 
 /* Footer */
 .footer {
-    background: rgb(12, 33, 46);
+    background: rgb(3, 8, 12);
     color: var(--clr-light);
     text-align: center;
     padding: 2.5em 0;
